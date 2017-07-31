@@ -27,8 +27,12 @@ h1, h2, h3, h4 {
     font-family: 'Lobster', cursive;
 }
 
-.date {
-    color: #828282;
+#date {
+    /*color: #828282;
+    margin-right: 80px;*/
+    margin: auto;
+    text-align: right;
+
 }
 
 .save {
